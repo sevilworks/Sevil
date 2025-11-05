@@ -8,12 +8,12 @@
 </div>
 <br><br>
 
-<table border=0>
+<table border="0" align="center">
 <tr>
-<td width="80%" valign="top">
+<td width="70%" valign="top">
 
-<h2 align="left">🔐 Pentesting & Writeups</h2>
-<div align="left">
+<h2>🔐 Pentesting & Writeups</h2>
+<div>
     <a href="https://0xsevil.notion.site/0xSevil-27ba2ccb698280d588f3ebb445629f1b?pvs=74" target="_blank">
         <img src="https://img.shields.io/badge/🎯_Pentest_Writeups-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=#000080" alt="Pentest Writeups" />
     </a>
@@ -22,8 +22,8 @@
     </a>
 </div>
 <br>
-<h2 align="left">Reach out</h2>
-<div align="left">
+<h2>Reach out</h2>
+<div>
     <a href="https://linkedin.com/in/sevildoes" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -39,11 +39,9 @@
 </div>
 
 </td>
-<td width="20%" valign="top">
+<td width="30%" valign="top">
 
-<div align="center">
-    <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+<img height="250" src="https://i.imgflip.com/65efzo.gif"  />
 
 </td>
 </tr>
