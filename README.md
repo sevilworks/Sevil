@@ -1,35 +1,29 @@
 <div align="center">
     <h1>Hi 👋 I'm Amen Amari, I go by Sevil</h1>
-    <h3>Full Stack Developer | Security Enthusiast | Problem Solver</h3>
 </div>
-
 <br>
-
-<!-- GitHub Stats -->
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sevilworks&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sevilworks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
-
 <br><br>
 
+<table border=0>
+<tr>
+<td width="80%" valign="top">
 
-<h2 align="center">🔐 Pentesting & Writeups</h2>
-
-<div align="center">
+<h2 align="left">🔐 Pentesting & Writeups</h2>
+<div align="left">
     <a href="https://0xsevil.notion.site/0xSevil-27ba2ccb698280d588f3ebb445629f1b?pvs=74" target="_blank">
         <img src="https://img.shields.io/badge/🎯_Pentest_Writeups-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=#000080" alt="Pentest Writeups" />
     </a>
     <a href="https://hackmyvm.eu/public/?u=Sevil" target="_blank">
         <img src="https://img.shields.io/badge/🎯_Hack_My_Vm-000000?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=FF0080" alt="Pentest Writeups" />
     </a>
-    <br>
-    <p><em>Click above to view my penetration testing documentation and CTF writeups</em></p>
 </div>
-
-<h2 align="center">Reach out</h2>
-
-<div align="center">
+<br>
+<h2 align="left">Reach out</h2>
+<div align="left">
     <a href="https://linkedin.com/in/sevildoes" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -42,9 +36,17 @@
     <a href="mailto:esta3969@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    
 </div>
 
-<br><br>
+</td>
+<td width="20%" valign="top">
+
+<div align="center">
+    <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+</td>
+</tr>
+</table>
 
 <hr>
