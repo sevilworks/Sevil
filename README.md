@@ -27,8 +27,6 @@
     <p><em>Click above to view my penetration testing documentation and CTF writeups</em></p>
 </div>
 
-<br><br>
-
 <h2 align="center">Reach out</h2>
 
 <div align="center">
